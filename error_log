@@ -1,0 +1,49 @@
+[21-Sep-2017 19:00:10 Asia/Dhaka] PHP Fatal error:  Call to a member function get_where() on a non-object in /home/jommosre/public_html/application/models/Common_model.php on line 310
+[21-Sep-2017 19:00:43 Asia/Dhaka] PHP Fatal error:  Call to a member function get_where() on a non-object in /home/jommosre/public_html/application/models/Common_model.php on line 310
+[06-Oct-2017 12:39:48 Asia/Dhaka] PHP Parse error:  syntax error, unexpected end of file in /home/jommosre/public_html/application/views/front_end/watch.php on line 435
+[07-Oct-2017 13:38:54 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/jommosre/public_html/application/controllers/Admin.php on line 355
+[07-Oct-2017 13:39:34 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/jommosre/public_html/application/controllers/Admin.php on line 374
+[07-Oct-2017 14:34:13 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '?>' in /home/jommosre/public_html/application/views/admin/dashboard.php on line 260
+[07-Oct-2017 14:58:59 Asia/Dhaka] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/jommosre/public_html/application/views/admin/dashboard.php on line 259
+[07-Oct-2017 14:59:21 Asia/Dhaka] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/jommosre/public_html/application/views/admin/dashboard.php on line 259
+[07-Oct-2017 15:59:54 Asia/Dhaka] PHP Fatal error:  Call to undefined function s_null() in /home/jommosre/public_html/application/models/Common_model.php on line 407
+[07-Oct-2017 16:48:35 Asia/Dhaka] PHP Fatal error:  Call to undefined function is_empty() in /home/jommosre/public_html/application/models/Common_model.php on line 406
+[08-Oct-2017 02:12:11 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '?>', expecting ':' in /home/jommosre/public_html/application/views/front_end/watch.php on line 54
+[08-Oct-2017 02:12:37 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '{', expecting ':' in /home/jommosre/public_html/application/views/front_end/watch.php on line 54
+[08-Oct-2017 02:19:58 Asia/Dhaka] PHP Fatal error:  Call to undefined method Common_model::get_broken_videos_count() in /home/jommosre/public_html/application/controllers/Admin.php on line 320
+[08-Oct-2017 02:42:11 Asia/Dhaka] PHP Parse error:  syntax error, unexpected 'z' (T_STRING), expecting function (T_FUNCTION) in /home/jommosre/public_html/application/controllers/Watch.php on line 46
+[08-Oct-2017 02:43:43 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '.' in /home/jommosre/public_html/application/views/front_end/watch.php on line 66
+[08-Oct-2017 03:02:05 Asia/Dhaka] PHP Fatal error:  Cannot redeclare Common_model::get_broken_link_videos() in /home/jommosre/public_html/application/models/Common_model.php on line 461
+[08-Oct-2017 03:02:05 Asia/Dhaka] PHP Fatal error:  Cannot redeclare Common_model::get_broken_link_videos() in /home/jommosre/public_html/application/models/Common_model.php on line 461
+[08-Oct-2017 03:02:07 Asia/Dhaka] PHP Fatal error:  Cannot redeclare Common_model::get_broken_link_videos() in /home/jommosre/public_html/application/models/Common_model.php on line 461
+[08-Oct-2017 03:02:07 Asia/Dhaka] PHP Fatal error:  Cannot redeclare Common_model::get_broken_link_videos() in /home/jommosre/public_html/application/models/Common_model.php on line 461
+[08-Oct-2017 18:25:56 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/jommosre/public_html/application/models/Common_model.php on line 778
+[08-Oct-2017 18:25:57 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/jommosre/public_html/application/models/Common_model.php on line 778
+[08-Oct-2017 18:49:39 Asia/Dhaka] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/jommosre/public_html/application/views/admin/videos_edit.php on line 188
+[09-Oct-2017 01:07:12 Asia/Dhaka] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::order_by() in /home/jommosre/public_html/application/views/front_end/watch.php on line 35
+[09-Oct-2017 01:51:40 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/jommosre/public_html/application/views/admin/videos_add.php on line 126
+[09-Oct-2017 02:06:15 Asia/Dhaka] PHP Parse error:  syntax error, unexpected end of file in /home/jommosre/public_html/application/controllers/Admin.php on line 693
+[09-Oct-2017 02:06:22 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '$response' (T_VARIABLE) in /home/jommosre/public_html/application/controllers/Admin.php on line 1496
+[09-Oct-2017 02:06:23 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '$response' (T_VARIABLE) in /home/jommosre/public_html/application/controllers/Admin.php on line 1496
+[09-Oct-2017 02:06:28 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '$response' (T_VARIABLE) in /home/jommosre/public_html/application/controllers/Admin.php on line 1496
+[09-Oct-2017 02:06:47 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '$response' (T_VARIABLE) in /home/jommosre/public_html/application/controllers/Admin.php on line 1496
+[09-Oct-2017 02:06:52 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '$response' (T_VARIABLE) in /home/jommosre/public_html/application/controllers/Admin.php on line 1496
+[09-Oct-2017 02:06:52 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '$response' (T_VARIABLE) in /home/jommosre/public_html/application/controllers/Admin.php on line 1496
+[09-Oct-2017 02:07:03 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '$response' (T_VARIABLE) in /home/jommosre/public_html/application/controllers/Admin.php on line 1496
+[09-Oct-2017 02:07:17 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '$response' (T_VARIABLE) in /home/jommosre/public_html/application/controllers/Admin.php on line 1496
+[09-Oct-2017 02:07:19 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '$response' (T_VARIABLE) in /home/jommosre/public_html/application/controllers/Admin.php on line 1496
+[09-Oct-2017 02:07:33 Asia/Dhaka] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/jommosre/public_html/application/controllers/Admin.php on line 1499
+[09-Oct-2017 02:07:33 Asia/Dhaka] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/jommosre/public_html/application/controllers/Admin.php on line 1499
+[09-Oct-2017 02:07:35 Asia/Dhaka] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/jommosre/public_html/application/controllers/Admin.php on line 1499
+[09-Oct-2017 02:07:36 Asia/Dhaka] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/jommosre/public_html/application/controllers/Admin.php on line 1499
+[09-Oct-2017 02:07:48 Asia/Dhaka] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/jommosre/public_html/application/controllers/Admin.php on line 1499
+[09-Oct-2017 02:07:50 Asia/Dhaka] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/jommosre/public_html/application/controllers/Admin.php on line 1499
+[09-Oct-2017 02:07:51 Asia/Dhaka] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/jommosre/public_html/application/controllers/Admin.php on line 1499
+[09-Oct-2017 02:07:59 Asia/Dhaka] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/jommosre/public_html/application/controllers/Admin.php on line 1499
+[09-Oct-2017 02:08:08 Asia/Dhaka] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/jommosre/public_html/application/controllers/Admin.php on line 1499
+[09-Oct-2017 02:12:36 Asia/Dhaka] PHP Parse error:  syntax error, unexpected ''uploads/sys' (T_ENCAPSED_AND_WHITESPACE) in /home/jommosre/public_html/application/controllers/Admin.php on line 1056
+[09-Oct-2017 02:18:54 Asia/Dhaka] PHP Parse error:  syntax error, unexpected end of file in /home/jommosre/public_html/application/controllers/Admin.php on line 1412
+[10-Oct-2017 17:11:25 Asia/Dhaka] PHP Fatal error:  Can't use method return value in write context in /home/jommosre/public_html/application/controllers/Admin.php on line 366
+[10-Oct-2017 17:15:00 Asia/Dhaka] PHP Parse error:  syntax error, unexpected end of file in /home/jommosre/public_html/application/controllers/Admin.php on line 129
+[10-Oct-2017 18:14:29 Asia/Dhaka] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT), expecting function (T_FUNCTION) in /home/jommosre/public_html/application/controllers/Home.php on line 20
+[10-Oct-2017 18:14:31 Asia/Dhaka] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT), expecting function (T_FUNCTION) in /home/jommosre/public_html/application/controllers/Home.php on line 20
